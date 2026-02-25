@@ -1,0 +1,13 @@
+package com.tnsif.daytwo.LoopsDemo;
+
+public class ForLoopDemo {
+
+	public static void main(String[] args) {
+
+		//print aq number from 1 to 100
+		for (int i=1;i<=10;i++) {
+			System.out.println("Value of i :"+ i);
+		}
+	}
+
+}
